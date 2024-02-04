@@ -23,7 +23,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("./../const/Background.png");
+  background-image: url("./../const/background.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
