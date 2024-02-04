@@ -10,7 +10,7 @@ import { myEditionDropContractAddress } from "@/const/yourDetails";
 import CardMyCollection from "../components/myCollectionCard";
 import ERC721MyCollectionCard from "../components/ERC721MyCollectionCard";
 
-export default function page() {
+export default function MyCollection() {
   const address = useAddress();
   const { contract } = useContract(
     "0xa75c8B9E93Ce5EB31223722E789c5FCb52Df5d8f"
@@ -22,7 +22,7 @@ export default function page() {
     <div>
       <div className="flex mx-4">
         {data?.map((item) => (
-          <div className="mx-2">
+          <div key={item.metadata.id} className="mx-2">
             <ERC721MyCollectionCard tokenId={item.metadata.id} />
           </div>
         ))}

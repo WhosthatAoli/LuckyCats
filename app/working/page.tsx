@@ -64,7 +64,7 @@ export default function Working() {
 
       {stakeList.map((id) => {
         return (
-          <div className="mx-2">
+          <div key={id} className="mx-2">
             <ERC721IsWorkingCard tokenId={id} />
           </div>
         );
