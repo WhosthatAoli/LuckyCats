@@ -2,11 +2,25 @@
 
 LuckyCats is a dapp where you can mint your own cats and play, and earn!
 
-First, you need a crypto wallet to connect.
+#### First, you need a crypto wallet to connect
+
 ![Screenshot 2024-03-20 at 7 35 53 PM](https://github.com/WhosthatAoli/LuckyCats/assets/54309838/126b7fe0-c419-4bb3-a39a-2da5c8ef64c4)
 
+#### Then you can mint your cats(NFT ERC721)
 
+![Screenshot 2024-03-20 at 7 37 39 PM](https://github.com/WhosthatAoli/LuckyCats/assets/54309838/cefd3ecb-2840-49a9-9a1a-0c27d36deeb8)
 
+#### Your cats collection
+
+![Screenshot 2024-03-20 at 7 38 06 PM](https://github.com/WhosthatAoli/LuckyCats/assets/54309838/cc38a6a6-ac46-42c7-a855-d1b9947137a5)
+
+#### Make your cats to work and earn!
+
+![Screenshot 2024-03-20 at 7 39 08 PM](https://github.com/WhosthatAoli/LuckyCats/assets/54309838/54ec6692-5b55-4190-bfd7-3bd79ef06b2e)
+
+#### Let them to travel and gain experience to upgrade
+
+#### Stay tuned for more gameplay
 
 
 
