@@ -1,6 +1,7 @@
 ## LuckyCats
 
 LuckyCats is a dapp where you can mint your own cats and play, and earn!
+try it[https://lucky-cats.vercel.app/]
 
 #### First, you need a crypto wallet to connect
 
